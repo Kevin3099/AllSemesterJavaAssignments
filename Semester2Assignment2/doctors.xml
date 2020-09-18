@@ -1,0 +1,24 @@
+<object-stream>
+  <list>
+    <models.Specialist>
+      <name>Dr Strange</name>
+      <dob>20/07/1960</dob>
+      <gender>M</gender>
+      <address>Random Lane</address>
+      <contactNumber>34567</contactNumber>
+      <qualifications>
+        <models.Qualification>
+          <degreeType>Bsc</degreeType>
+          <degreeName>Maths</degreeName>
+          <college>wit</college>
+          <conferringYear>1975</conferringYear>
+        </models.Qualification>
+      </qualifications>
+      <qualifiedInIreland>true</qualifiedInIreland>
+      <specialism>
+        <string>leg doctor</string>
+        <string>eye doctor#</string>
+      </specialism>
+    </models.Specialist>
+  </list>
+</object-stream>
