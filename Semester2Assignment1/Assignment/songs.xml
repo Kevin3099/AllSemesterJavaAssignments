@@ -1,0 +1,54 @@
+<object-stream>
+  <list>
+    <Song>
+      <songName></songName>
+      <songGenre>unknown</songGenre>
+      <songLength>305</songLength>
+      <artist>
+        <artistName>unknown</artistName>
+        <artistEmail>invalid format email</artistEmail>
+        <artistPhone>unknown</artistPhone>
+      </artist>
+    </Song>
+    <Song>
+      <songName>Max</songName>
+      <songGenre>unknown</songGenre>
+      <songLength>350</songLength>
+      <artist>
+        <artistName>unknown</artistName>
+        <artistEmail>invalid format email</artistEmail>
+        <artistPhone>unknown</artistPhone>
+      </artist>
+    </Song>
+    <Song>
+      <songName>Amazing</songName>
+      <songGenre>pop</songGenre>
+      <songLength>260</songLength>
+      <artist>
+        <artistName>Kevin</artistName>
+        <artistEmail>Kevin@gmail.oom</artistEmail>
+        <artistPhone>2353567</artistPhone>
+      </artist>
+    </Song>
+    <Song>
+      <songName>john</songName>
+      <songGenre>unknown</songGenre>
+      <songLength>350</songLength>
+      <artist>
+        <artistName>Kevin</artistName>
+        <artistEmail>Kevin@gmail.oom</artistEmail>
+        <artistPhone>2353567</artistPhone>
+      </artist>
+    </Song>
+    <Song>
+      <songName>max</songName>
+      <songGenre>rock</songGenre>
+      <songLength>200</songLength>
+      <artist>
+        <artistName>unknown</artistName>
+        <artistEmail>invalid format email</artistEmail>
+        <artistPhone>unknown</artistPhone>
+      </artist>
+    </Song>
+  </list>
+</object-stream>

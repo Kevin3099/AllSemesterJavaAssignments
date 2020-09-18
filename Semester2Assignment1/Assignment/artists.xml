@@ -1,0 +1,14 @@
+<object-stream>
+  <list>
+    <Artist>
+      <artistName>Kein</artistName>
+      <artistEmail>kein@gmail.com</artistEmail>
+      <artistPhone>3255675465</artistPhone>
+    </Artist>
+    <Artist>
+      <artistName>Kevin</artistName>
+      <artistEmail>Kevin@gmail.oom</artistEmail>
+      <artistPhone>2353567</artistPhone>
+    </Artist>
+  </list>
+</object-stream>
